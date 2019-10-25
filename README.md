@@ -25,5 +25,15 @@ npm run test
 npm run lint
 ```
 
+###    
+```
+vue-cli3.0 + typescript + iView   
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Customize configuration
+See [iView](https://www.iviewui.com/components/).
+
+
